@@ -17,6 +17,7 @@ vim \
 screen \
 python3-pip \
 python3-dev \
+python3.8-venv \
 sudo \
 rsync \
 apt-transport-https \

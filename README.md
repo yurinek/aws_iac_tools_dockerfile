@@ -17,6 +17,7 @@ helm
 
 ### Linux tools:
 
+bash  
 locate  
 sysstat  
 iotop  
@@ -41,4 +42,5 @@ software-properties-common
 jq  
 wget  
 unzip  
+ssh  
 
